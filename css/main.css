@@ -1,0 +1,57 @@
+body{
+    background-color: darkgrey;
+}
+
+#loading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.main{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    background-color: azure;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main a{
+    text-decoration: none;
+    color: blue;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main li{
+    padding: 5px;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(12, 185, 238);
+    padding: 5px;
+    margin: 5px;
+    border: 3px solid black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header h1{
+    font-size: 40px;
+    font-variant: small-caps;
+    color: rgb(44, 42, 42);
+}
+#profileImage{
+    border: 3px solid black;
+    border-radius: 50%;
+}
+
+#profileImage:hover{
+    border: 3px solid rgb(5, 7, 133);
+}
+
+.project{
+    text-align: center;
+    background-color: darkgrey;
+    padding: 15px;
+}
