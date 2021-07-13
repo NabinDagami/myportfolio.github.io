@@ -26,7 +26,6 @@ body{
 
 .main li{
     padding: 5px;
-    overflow: hidden;
 }
 
 .header{
@@ -55,4 +54,5 @@ body{
     text-align: center;
     background-color: darkgrey;
     padding: 15px;
+    overflow: hidden;
 }
